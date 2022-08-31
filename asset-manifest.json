@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pentomino-cipher/static/css/main.84487ea8.css",
+    "main.js": "/pentomino-cipher/static/js/main.aa0683e4.js",
+    "index.html": "/pentomino-cipher/index.html",
+    "main.84487ea8.css.map": "/pentomino-cipher/static/css/main.84487ea8.css.map",
+    "main.aa0683e4.js.map": "/pentomino-cipher/static/js/main.aa0683e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.aa0683e4.js"
+  ]
+}
